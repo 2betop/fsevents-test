@@ -1,0 +1,26 @@
+{
+  "name": "fsevents-test",
+  "version": "1.0.0",
+  "description": "fsevents test",
+  "main": "index.js",
+  "dependencies": {
+    "fsevents": "^1.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2betop/fsevents-test.git"
+  },
+  "keywords": [
+    "fsevents"
+  ],
+  "author": "2betop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2betop/fsevents-test/issues"
+  },
+  "homepage": "https://github.com/2betop/fsevents-test#readme"
+}
